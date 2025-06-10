@@ -6,7 +6,7 @@
 
 ### Hello! I'm Jose G 👋
 
-💻 **Cloud Engineer II | DevOps Specialist | Code Sorcerer**  
+💻 **Senior Cloud Engineer | DevOps Specialist | Code Sorcerer**  
 💥 **Tech Enthusiast | Anime Aficionado | Coffee-Fueled Coder**
 
 I'm a seasoned Cloud Engineer with 5+ years of experience in the tech world. My journey through the clouds has taken me across vast landscapes of AWS. Like a mecha pilot, I masterfully control Infrastructure as Code (IaC) to build and maintain high-performance, secure cloud environments.
