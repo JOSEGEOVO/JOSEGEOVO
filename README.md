@@ -17,7 +17,7 @@ I'm a seasoned Cloud Engineer with 5+ years of experience in the tech world. My 
 
 ### 💼 My Tech Arsenal
 
-- **🛠️ Cloud Platforms**: AWS, Azure, Google Cloud
+- **🛠️ Cloud Platforms**: AWS
 - **🔮 Infrastructure as Code**: Terraform, CloudFormation, Ansible
 - **💻 Backend Mastery**: Java, Python, Node.js, with a focus on RESTful APIs and database management (SQL & NoSQL)
 - **⚙️ DevOps**: CI/CD pipelines, Automation, Jenkins, GitLab CI, Docker
